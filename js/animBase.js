@@ -79,7 +79,7 @@ define(["ASYNC/synchroniser"],
 			}
 
 			/**
-			* 	@method setup compltete animation setup  
+			* 	@method setup complete animation setup  
 			*	Implemented by child class
 			*/
 			this[ pk ].setup = function() 
