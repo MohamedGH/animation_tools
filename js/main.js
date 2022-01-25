@@ -1,8 +1,4 @@
 requirejs(["./animTransform" ], 
 			
 			
-function( animTransform ){
-
-	uanim = animTransform;
-
-});
+function( animTransform ){ uanim = animTransform; });
